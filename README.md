@@ -15,14 +15,14 @@
 
 ## 🚀 My Highlighted Projects
 
-| Project Name             | Description                                           | Main Language | Link                                                          |
-| ------------------------ | ----------------------------------------------------- | ------------- | ------------------------------------------------------------- |
-| **task-backend** | Backend system for task management.                   | PHP           | [View on GitHub](https://github.com/rixtrayker/task-backend)    |
-| **learn-go-with-tests** | Learning Go by following the "Learn Go with Tests" book. | Go            | [View on GitHub](https://github.com/rixtrayker/learn-go-with-tests) |
-| **demo-smpp** | Demonstration project for the SMPP protocol.          | Go            | [View on GitHub](https://github.com/rixtrayker/demo-smpp)       |
-| **go-loadbalancer** | A load balancer implemented in Go.                    | Go            | [View on GitHub](https://github.com/rixtrayker/go-loadbalancer) |
-| **medical-rep** | Project related to medical representative tasks.      | Go            | [View on GitHub](https://github.com/rixtrayker/medical-rep)     |
-| **BE-assessment-1** | _Backend assessment project._                     | _JavaScript_  | _[View on GitHub](https://github.com/rixtrayker/BE-assessment-1)_ |
+| Project Name             | Description                                                                                 | Main Language | Link                                                          |
+| ------------------------ | ------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------- |
+| **golang-interview** | 📚 Q&A, Best Practices & Code Examples. Generates HTML, PDF & EPUB using the mdBook tool. | Go            | [View on GitHub](https://github.com/rixtrayker/golang-interview)|
+| **learn-go-with-tests** | Learning Go by following the "Learn Go with Tests" book.                                     | Go            | [View on GitHub](https://github.com/rixtrayker/learn-go-with-tests) |
+| **demo-smpp** | Demonstration project for the SMPP protocol.                                                 | Go            | [View on GitHub](https://github.com/rixtrayker/demo-smpp)       |
+| **go-loadbalancer** | A load balancer implemented in Go.                                                           | Go            | [View on GitHub](https://github.com/rixtrayker/go-loadbalancer) |
+| **medical-rep** | Project related to medical representative tasks.                                              | Go            | [View on GitHub](https://github.com/rixtrayker/medical-rep)     |
+|  **BE-assessment-1** | _Backend assessment project._                                                               | NodeJs  | _[View on GitHub](https://github.com/rixtrayker/BE-assessment-1)_ |
 
 ## 💻 My Core Programming Languages
 
