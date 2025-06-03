@@ -13,7 +13,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rixtrayker&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=20c594&area=true&hide_border=false" alt="RixTrayker's GitHub Activity Graph" />
 </p>
 
-## 🚀 My Projects
 ## 🚀 My Highlighted Projects
 
 | Project Name             | Description                                           | Main Language | Link                                                          |
@@ -24,7 +23,6 @@
 | **go-loadbalancer** | A load balancer implemented in Go.                    | Go            | [View on GitHub](https://github.com/rixtrayker/go-loadbalancer) |
 | **medical-rep** | Project related to medical representative tasks.      | Go            | [View on GitHub](https://github.com/rixtrayker/medical-rep)     |
 | _(Optional)_ **BE-assessment-1** | _Backend assessment project._                     | _JavaScript_  | _[View on GitHub](https://github.com/rixtrayker/BE-assessment-1)_ |
-<hr>
 
 ## 💻 My Core Programming Languages
 
