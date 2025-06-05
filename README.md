@@ -19,10 +19,10 @@
 | ------------------------ | ------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------- |
 | **golang-interview** | 📚 Q&A, Best Practices & Code Examples. Generates HTML, PDF & EPUB using the mdBook tool. | Go            | [View on GitHub](https://github.com/rixtrayker/golang-interview)|
 | **learn-go-with-tests** | Learning Go by following the "Learn Go with Tests" book.                                     | Go            | [View on GitHub](https://github.com/rixtrayker/learn-go-with-tests) |
-| **demo-smpp** | Demonstration project for the SMPP protocol.                                                 | Go            | [View on GitHub](https://github.com/rixtrayker/demo-smpp)       |
+| **smpp-relay-service** | Lightweight SMPP Gateway bridging backend with telecom networks.                                                 | Go            | [View on GitHub](https://github.com/rixtrayker/smpp-relay-service)       |
 | **go-loadbalancer** | A load balancer implemented in Go.                                                           | Go            | [View on GitHub](https://github.com/rixtrayker/go-loadbalancer) |
-| **medical-rep** | Project related to medical representative tasks.                                              | Go            | [View on GitHub](https://github.com/rixtrayker/medical-rep)     |
-|  **BE-assessment-1** | _Backend assessment project._                                                               | NodeJs  | _[View on GitHub](https://github.com/rixtrayker/BE-assessment-1)_ |
+| **medical-rep** | A Medical representative CRM that implements clean architecture.                                            | Go            | [View on GitHub](https://github.com/rixtrayker/medical-rep)     |
+|  **uptime-monitoring** | _Uptime URLs Monitoring Backend in NodeJS ._                                                               | NodeJs  | _[View on GitHub](https://github.com/rixtrayker/uptime-monitoring)_ |
 
 ## 💻 My Core Programming Languages
 
