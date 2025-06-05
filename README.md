@@ -14,9 +14,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rixtrayker&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixtrayker&theme=tokyonight&hide_border=true&langs_count=8&layout=donut-vertical&size_weight=0.5&count_weight=0.5" alt="Top Languages" width="30%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=rixtrayker&theme=tokyonight&no-frame=true&row=2&column=3" alt="GitHub Trophies" width="68%" />
+<div align="center" style="display: flex; align-items: stretch;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixtrayker&theme=tokyonight&hide_border=true&langs_count=10&layout=donut-vertical&size_weight=0.6&count_weight=0.4&card_width=320" alt="Top Languages" width="35%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rixtrayker&theme=tokyonight&no-frame=true&row=3&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" width="63%" />
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rixtrayker&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=20c594&area=true&hide_border=true&radius=16" alt="Activity Graph" width="100%" />
