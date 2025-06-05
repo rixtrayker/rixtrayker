@@ -10,16 +10,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rixtrayker&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rixtrayker&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rixtrayker&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rixtrayker&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixtrayker&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=rixtrayker&theme=tokyonight&no-frame=true&row=1&column=4" alt="GitHub Trophies" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixtrayker&theme=tokyonight&hide_border=true&langs_count=8&layout=donut-vertical&size_weight=0.5&count_weight=0.5" alt="Top Languages" width="30%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rixtrayker&theme=tokyonight&no-frame=true&row=2&column=3" alt="GitHub Trophies" width="68%" />
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rixtrayker&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=20c594&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rixtrayker&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=20c594&area=true&hide_border=true&radius=16" alt="Activity Graph" width="100%" />
 
 ## 🚀 Featured Projects
 
