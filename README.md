@@ -9,13 +9,13 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rixtrayker&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rixtrayker&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=rixtrayker&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=rixtrayker&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixtrayker&theme=tokyonight&hide_border=true&langs_count=10&layout=donut-vertical&size_weight=0.6&count_weight=0.4&card_width=320" alt="Top Languages" width="35%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=rixtrayker&theme=tokyonight&no-frame=true&row=3&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" width="63%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rixtrayker&theme=tokyonight&hide_border=true&langs_count=10&layout=donut-vertical&size_weight=0.6&count_weight=0.4&card_width=320" alt="Top Languages" width="35%" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=rixtrayker&theme=tokyonight&no-frame=true&row=3&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" width="63%" />
 </div>
 
 <div align="center">
@@ -26,10 +26,10 @@
 
 <div align="center">
 
-[![Golang Interview](https://github-readme-stats.vercel.app/api/pin/?username=rixtrayker&repo=golang-interview&theme=tokyonight)](https://github.com/rixtrayker/golang-interview)
-[![SMPP Relay Service](https://github-readme-stats.vercel.app/api/pin/?username=rixtrayker&repo=smpp-relay-service&theme=tokyonight)](https://github.com/rixtrayker/smpp-relay-service)
-[![Go Loadbalancer](https://github-readme-stats.vercel.app/api/pin/?username=rixtrayker&repo=go-loadbalancer&theme=tokyonight)](https://github.com/rixtrayker/go-loadbalancer)
-[![Medical Rep](https://github-readme-stats.vercel.app/api/pin/?username=rixtrayker&repo=medical-rep&theme=tokyonight)](https://github.com/rixtrayker/medical-rep)
+[![Golang Interview](https://github-readme-stats.shion.dev/api/pin/?username=rixtrayker&repo=golang-interview&theme=tokyonight)](https://github.com/rixtrayker/golang-interview)
+[![SMPP Relay Service](https://github-readme-stats.shion.dev/api/pin/?username=rixtrayker&repo=smpp-relay-service&theme=tokyonight)](https://github.com/rixtrayker/smpp-relay-service)
+[![Go Loadbalancer](https://github-readme-stats.shion.dev/api/pin/?username=rixtrayker&repo=go-loadbalancer&theme=tokyonight)](https://github.com/rixtrayker/go-loadbalancer)
+[![Medical Rep](https://github-readme-stats.shion.dev/api/pin/?username=rixtrayker&repo=medical-rep&theme=tokyonight)](https://github.com/rixtrayker/medical-rep)
 
 </div>
 
